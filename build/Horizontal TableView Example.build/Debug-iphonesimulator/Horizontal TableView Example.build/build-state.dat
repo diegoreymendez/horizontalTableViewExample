@@ -1,0 +1,353 @@
+THorizontal TableView Example
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist" "Horizontal TableView Example/Horizontal TableView Example-Info.plist"
+cProcessPCH "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth" "Horizontal TableView Example/Horizontal TableView Example-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example" normal i386
+cGenerateDSYMFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example"
+cCopyStringsFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj/InfoPlist.strings" "Horizontal TableView Example/en.lproj/InfoPlist.strings"
+cCompileXIB "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib"
+cCompileXIB "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xib"
+cTouch "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004FBD2B1900000000002DEF20
+t1337797401
+s3010336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FBD2B190000000000244490
+t1337797401
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FBD2B1B0000000000353830
+t1337797403
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FBD2B240000000000905E40
+t1337797412
+s9461312
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.h
+c000000004FD434540000000000000280
+t1339307092
+s640
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m
+c000000004FD43B9E0000000000001BD3
+t1339308958
+s7123
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal TableView Example-Prefix.pch
+c000000004FD434540000000000000180
+t1339307092
+s384
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.h
+c000000004FD436C400000000000000FC
+t1339307716
+s252
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m
+c000000004FD4370700000000000002C8
+t1339307783
+s712
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.h
+c000000004FD4372D0000000000000108
+t1339307821
+s264
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m
+c000000004FD43BC40000000000000260
+t1339308996
+s608
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xib
+c000000004FD43CD4000000000000232F
+t1339309268
+s9007
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld
+c000000004FD434540000000000000088
+t1339307092
+s136
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.h
+c000000004FD43ACC000000000000012C
+t1339308748
+s300
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m
+c000000004FD43CAA0000000000000607
+t1339309226
+s1543
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib
+c000000004FD43BFE0000000000002059
+t1339309054
+s8281
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/en.lproj/InfoPlist.strings
+c000000004FD43454000000000000002D
+t1339307092
+s45
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m
+c000000004FD434540000000000000167
+t1339307092
+s359
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app
+t1339309217
+s306
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM
+t1339309216
+s102
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example
+t1339309216
+s34396
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/HorizontalTableViewCell.nib
+t1339309217
+s1561
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd
+t1339307299
+s170
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist
+t1339307299
+s986
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/MainViewController.nib
+t1339309055
+s1307
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/PkgInfo
+t1339307299
+s8
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj/InfoPlist.strings
+t1339307568
+s42
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o
+t1339308963
+s74544
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/Horizontal TableView Example.LinkFileList
+c000000004FD43AA2000000000000048D
+t1339308706
+s1165
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o
+t1339308706
+s46800
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o
+t1339308997
+s46212
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o
+t1339309216
+s58028
+
+N/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o
+t1339307300
+s3392
+
+N/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth
+t1339307300
+s4247048
+
+NHorizontal TableView Example/Horizontal TableView Example-Info.plist
+c000000004FD4345400000000000005B5
+t1339307092
+s1461
+
+CBuild AST from "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m"
+r0
+
+CBuild AST from "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m"
+r0
+
+CBuild AST from "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m"
+r0
+
+CBuild AST from "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies07b5f7547484b541^4300f8547484b541^---0#1#0#--18"Check dependencies36"EF01C7C9-CE5D-499F-BDB3-85D4CC781E63-
+
+CCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361001763.607996
+e361001763.689894
+r1
+xCompileC
+xbuild/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Compile /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.mafcc9b237384b541^639bb0237384b541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/AppDelegate.m0000000000000000^4609"CompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o" "Horizontal TableView Example/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -include "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch" -MMD -MT dependencies -MF "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/AppDelegate.m" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/AppDelegate.o"36"86093E7E-6484-4074-B6C0-8835EE9DB589-
+
+CCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361001506.144194
+e361001506.215351
+r1
+xCompileC
+xbuild/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Compile /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m451225227284b541^363a37227284b541^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/HorizontalTableView.m0000000000000000^4657"CompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o" "Horizontal TableView Example/HorizontalTableView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -include "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch" -MMD -MT dependencies -MF "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.d" --serialize-diagnostics "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableView.m" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableView.o"36"AB434B4A-D0EB-441C-9BCB-3778D90E299E-
+
+CCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361001797.064717
+e361001797.130017
+r1
+xCompileC
+xbuild/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.mb6be10457384b541^5a4721457384b541^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/HorizontalTableViewCell.m0000000000000000^4681"CompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o" "Horizontal TableView Example/HorizontalTableViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -include "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch" -MMD -MT dependencies -MF "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.d" --serialize-diagnostics "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.m" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/HorizontalTableViewCell.o"36"C7CDB008-E049-48C0-A8BC-C09FB753CF2B-
+
+CCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361002069.005754
+e361002069.110487
+r1
+xCompileC
+xbuild/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.mb6a201557484b541^5f5e1c557484b541^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/MainViewController.m0000000000000000^4651"CompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o" "Horizontal TableView Example/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -include "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch" -MMD -MT dependencies -MF "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.d" --serialize-diagnostics "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.m" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/MainViewController.o"36"53055BA6-1BF6-4FEB-BB74-FC97A15090A6-
+
+CCompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361000100.134496
+e361000100.408762
+r1
+xCompileC
+xbuild/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m00a822a46c84b541^29b068a46c84b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/main.m0000000000000000^4567"CompileC "build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o" "Horizontal TableView Example/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -include "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch" -MMD -MT dependencies -MF "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/main.m" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/main.o"36"F8F36472-06E0-4BC8-A597-14967BB418EB-
+
+CCompileXIB "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xib"
+s361002069.206574
+e361002070.287216
+r1
+xCompileXIB
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Compiling /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xibbef634557484b541^a98649567484b541^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/HorizontalTableViewCell.xib0000000000000000^1114"CompileXIB "Horizontal TableView Example/HorizontalTableViewCell.xib"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/HorizontalTableViewCell.nib" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/HorizontalTableViewCell.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"BD849CF1-1983-4B90-A06A-F317E9BC23C2-
+
+CCompileXIB "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib"
+s361001854.972026
+e361001855.856193
+r1
+xCompileXIB
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Compiling /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib9eeef87e7384b541^e830db7f7384b541^---0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/MainViewController.xib0000000000000000^1099"CompileXIB "Horizontal TableView Example/MainViewController.xib"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/MainViewController.nib" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/MainViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"DE8B1AF6-A0F1-4744-BB5B-A5B649803A13-
+
+CCopyStringsFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj/InfoPlist.strings" "Horizontal TableView Example/en.lproj/InfoPlist.strings"
+s361000368.676607
+e361000368.680342
+r1
+xCopyStringsFile
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj/InfoPlist.strings
+xHorizontal TableView Example/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy Horizontal TableView Example/en.lproj/InfoPlist.stringsb950adb06d84b541^ae2baeb06d84b541^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/en.lproj/InfoPlist.strings0000000000000000^785"CopyStringsFile "build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj/InfoPlist.strings" "Horizontal TableView Example/en.lproj/InfoPlist.strings"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/en.lproj" -- "Horizontal TableView Example/en.lproj/InfoPlist.strings"36"9DD86E7F-84AC-4454-A4A1-896377B24D86-
+
+CDataModelVersionCompile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld"
+s361000099.266893
+e361000099.718381
+r1
+xDataModelVersionCompile
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection193"DataModelVersionCompile "build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd" "Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld"e78c44a36c84b541^ebe5b7a36c84b541^---0#0#0#-19%DVTDocumentLocation2@194"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/Horizontal_TableView_Example.xcdatamodeld/0000000000000000^1170"DataModelVersionCompile "build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd" "Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -XD_MOMC_IOS_TARGET_VERSION=5.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal_TableView_Example.xcdatamodeld" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal_TableView_Example.momd"36"D772D7DF-ED6B-4F88-9BFB-BD2A3D03E3D1-
+
+CGenerateDSYMFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM" "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example"
+s361002069.167352
+e361002069.197066
+r1
+xGenerateDSYMFile
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Generating /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYMdcf12a557484b541^d88232557484b541^---0#0#0#-19%DVTDocumentLocation2@189"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/build/Debug-iphonesimulator/Horizontal%20TableView%20Example.app.dSYM/0000000000000000^944"GenerateDSYMFile "build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM" "build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example" -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app.dSYM"36"810CC210-FDAF-401F-B4CF-4077CDB80878-
+
+CLd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example" normal i386
+s361002069.118032
+e361002069.160293
+r1
+xLd
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"Link /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example00531e557484b541^5e1429557484b541^---0#0#0#--1630"Ld "build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example" normal i386    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" -filelist "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Objects-normal/i386/Horizontal TableView Example.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Horizontal TableView Example"36"BDF44730-F137-43F2-B15F-D6EC17650374-
+
+CProcessInfoPlistFile "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist" "Horizontal TableView Example/Horizontal TableView Example-Info.plist"
+s361000099.254561
+e361000099.259070
+r1
+xProcessInfoPlistFile
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist
+xHorizontal TableView Example/Horizontal TableView Example-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Process Horizontal TableView Example/Horizontal TableView Example-Info.plist274b41a36c84b541^265242a36c84b541^---0#0#0#-19%DVTDocumentLocation2@195"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example-Info.plist0000000000000000^983"ProcessInfoPlistFile "build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist" "Horizontal TableView Example/Horizontal TableView Example-Info.plist"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Horizontal TableView Example/Horizontal TableView Example-Info.plist" -genpkginfo "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app/Info.plist"36"104D97FA-B796-4970-B842-FFF268E5BAC6-
+
+CProcessPCH "/Users/diegoreymendez/Library/Developer/Xcode/DerivedData/Horizontal_TableView_Example-ewdjtiugnxjosohgsdjmwyhpnoza/Index/PrecompiledHeaders/Horizontal TableView Example-Prefix-hgfweegcjksujlfsyomfjlppcptl_ast/Horizontal TableView Example-Prefix.pch.pth" "Horizontal TableView Example/Horizontal TableView Example-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth" "Horizontal TableView Example/Horizontal TableView Example-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361000099.267796
+e361000100.127453
+r1
+xProcessPCH
+x/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth
+xHorizontal TableView Example/Horizontal TableView Example-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Precompile Horizontal TableView Example/Horizontal TableView Example-Prefix.pche9ba44a36c84b541^809c20a46c84b541^---0#0#0#-19%DVTDocumentLocation2@195"file://localhost/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample%20Code/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example/Horizontal%20TableView%20Example-Prefix.pch0000000000000000^4449"ProcessPCH "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth" "Horizontal TableView Example/Horizontal TableView Example-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-generated-files.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-own-target-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-all-target-headers.hmap" -iquote "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/Horizontal TableView Example-project-headers.hmap" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/include" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources/i386" "-I/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Horizontal TableView Example.build/Debug-iphonesimulator/Horizontal TableView Example.build/DerivedSources" "-F/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator" --serialize-diagnostics "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.dia" -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/Horizontal TableView Example/Horizontal TableView Example-Prefix.pch" -o "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.pth" -MMD -MT dependencies -MF "/var/folders/d1/p21pt6hd2nb5nhypj8phzl3w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/Horizontal TableView Example-Prefix-hekpkyrfrsqcslcaaybfitfddpbs/Horizontal TableView Example-Prefix.pch.d"36"1D904E37-AF21-48B3-8F66-073D3A89E80B-
+
+CTouch "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app"
+s361002070.295433
+e361002070.301184
+r1
+xTouch
+x/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Touch /Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app35b24b567484b541^05194d567484b541^---0#0#0#--552"Touch "build/Debug-iphonesimulator/Horizontal TableView Example.app"    cd "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/Horizontal TableView Example/build/Debug-iphonesimulator/Horizontal TableView Example.app"36"159FC885-F0A6-4DEA-9854-C86B61F49477-
+

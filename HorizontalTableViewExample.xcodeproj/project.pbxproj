@@ -11,16 +11,20 @@
 		59374F7415846BD400147EFF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7315846BD400147EFF /* Foundation.framework */; };
 		59374F7615846BD400147EFF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7515846BD400147EFF /* CoreGraphics.framework */; };
 		59374F7815846BD400147EFF /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7715846BD400147EFF /* CoreData.framework */; };
-		59374F7E15846BD400147EFF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 59374F7C15846BD400147EFF /* InfoPlist.strings */; };
 		59374F8015846BD400147EFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374F7F15846BD400147EFF /* main.m */; };
 		59374F8415846BD400147EFF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374F8315846BD400147EFF /* AppDelegate.m */; };
-		59374F8715846BD400147EFF /* Horizontal_TableView_Example.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 59374F8515846BD400147EFF /* Horizontal_TableView_Example.xcdatamodeld */; };
 		59374F8F15846BD400147EFF /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F8E15846BD400147EFF /* SenTestingKit.framework */; };
 		59374F9015846BD400147EFF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7115846BD400147EFF /* UIKit.framework */; };
 		59374F9115846BD400147EFF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7315846BD400147EFF /* Foundation.framework */; };
 		59374F9215846BD400147EFF /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59374F7715846BD400147EFF /* CoreData.framework */; };
 		59374F9A15846BD400147EFF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 59374F9815846BD400147EFF /* InfoPlist.strings */; };
 		59374F9D15846BD400147EFF /* Horizontal_TableView_ExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374F9C15846BD400147EFF /* Horizontal_TableView_ExampleTests.m */; };
+		59374FA815846C0800147EFF /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374FA715846C0800147EFF /* MainViewController.m */; };
+		59374FAB15846C2D00147EFF /* HorizontalTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374FAA15846C2C00147EFF /* HorizontalTableView.m */; };
+		59374FAD15846DC900147EFF /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59374FAC15846DC900147EFF /* MainViewController.xib */; };
+		59374FB015846EAE00147EFF /* HorizontalTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 59374FAF15846EAE00147EFF /* HorizontalTableViewCell.m */; };
+		59374FB215846EFD00147EFF /* HorizontalTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59374FB115846EFD00147EFF /* HorizontalTableViewCell.xib */; };
+		597A887E15850B1200096643 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 597A887D15850B1200096643 /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,19 +43,26 @@
 		59374F7315846BD400147EFF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		59374F7515846BD400147EFF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		59374F7715846BD400147EFF /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		59374F7B15846BD400147EFF /* Horizontal TableView Example-Info.plist */ = {isa = PBXFileReference; path = "Horizontal TableView Example-Info.plist"; sourceTree = "<group>"; };
-		59374F7D15846BD400147EFF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		59374F7B15846BD400147EFF /* Horizontal TableView Example-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Horizontal TableView Example-Info.plist"; sourceTree = "<group>"; };
 		59374F7F15846BD400147EFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		59374F8115846BD400147EFF /* Horizontal TableView Example-Prefix.pch */ = {isa = PBXFileReference; path = "Horizontal TableView Example-Prefix.pch"; sourceTree = "<group>"; };
-		59374F8215846BD400147EFF /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		59374F8115846BD400147EFF /* Horizontal TableView Example-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Horizontal TableView Example-Prefix.pch"; sourceTree = "<group>"; };
+		59374F8215846BD400147EFF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		59374F8315846BD400147EFF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		59374F8615846BD400147EFF /* Horizontal_TableView_Example.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Horizontal_TableView_Example.xcdatamodel; sourceTree = "<group>"; };
 		59374F8D15846BD400147EFF /* Horizontal TableView ExampleTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Horizontal TableView ExampleTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59374F8E15846BD400147EFF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		59374F9715846BD400147EFF /* Horizontal TableView ExampleTests-Info.plist */ = {isa = PBXFileReference; path = "Horizontal TableView ExampleTests-Info.plist"; sourceTree = "<group>"; };
+		59374F9715846BD400147EFF /* Horizontal TableView ExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Horizontal TableView ExampleTests-Info.plist"; sourceTree = "<group>"; };
 		59374F9915846BD400147EFF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		59374F9B15846BD400147EFF /* Horizontal_TableView_ExampleTests.h */ = {isa = PBXFileReference; path = Horizontal_TableView_ExampleTests.h; sourceTree = "<group>"; };
+		59374F9B15846BD400147EFF /* Horizontal_TableView_ExampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Horizontal_TableView_ExampleTests.h; sourceTree = "<group>"; };
 		59374F9C15846BD400147EFF /* Horizontal_TableView_ExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Horizontal_TableView_ExampleTests.m; sourceTree = "<group>"; };
+		59374FA615846C0800147EFF /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		59374FA715846C0800147EFF /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		59374FA915846C2C00147EFF /* HorizontalTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HorizontalTableView.h; sourceTree = "<group>"; };
+		59374FAA15846C2C00147EFF /* HorizontalTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HorizontalTableView.m; sourceTree = "<group>"; };
+		59374FAC15846DC900147EFF /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		59374FAE15846EAE00147EFF /* HorizontalTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HorizontalTableViewCell.h; sourceTree = "<group>"; };
+		59374FAF15846EAE00147EFF /* HorizontalTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HorizontalTableViewCell.m; sourceTree = "<group>"; };
+		59374FB115846EFD00147EFF /* HorizontalTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HorizontalTableViewCell.xib; sourceTree = "<group>"; };
+		597A887D15850B1200096643 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,9 +125,17 @@
 		59374F7915846BD400147EFF /* Horizontal TableView Example */ = {
 			isa = PBXGroup;
 			children = (
+				597A887D15850B1200096643 /* LICENSE.txt */,
 				59374F8215846BD400147EFF /* AppDelegate.h */,
 				59374F8315846BD400147EFF /* AppDelegate.m */,
-				59374F8515846BD400147EFF /* Horizontal_TableView_Example.xcdatamodeld */,
+				59374FA615846C0800147EFF /* MainViewController.h */,
+				59374FA715846C0800147EFF /* MainViewController.m */,
+				59374FAC15846DC900147EFF /* MainViewController.xib */,
+				59374FA915846C2C00147EFF /* HorizontalTableView.h */,
+				59374FAA15846C2C00147EFF /* HorizontalTableView.m */,
+				59374FAE15846EAE00147EFF /* HorizontalTableViewCell.h */,
+				59374FAF15846EAE00147EFF /* HorizontalTableViewCell.m */,
+				59374FB115846EFD00147EFF /* HorizontalTableViewCell.xib */,
 				59374F7A15846BD400147EFF /* Supporting Files */,
 			);
 			path = "Horizontal TableView Example";
@@ -126,7 +145,6 @@
 			isa = PBXGroup;
 			children = (
 				59374F7B15846BD400147EFF /* Horizontal TableView Example-Info.plist */,
-				59374F7C15846BD400147EFF /* InfoPlist.strings */,
 				59374F7F15846BD400147EFF /* main.m */,
 				59374F8115846BD400147EFF /* Horizontal TableView Example-Prefix.pch */,
 			);
@@ -222,7 +240,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				59374F7E15846BD400147EFF /* InfoPlist.strings in Resources */,
+				59374FAD15846DC900147EFF /* MainViewController.xib in Resources */,
+				59374FB215846EFD00147EFF /* HorizontalTableViewCell.xib in Resources */,
+				597A887E15850B1200096643 /* LICENSE.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +279,9 @@
 			files = (
 				59374F8015846BD400147EFF /* main.m in Sources */,
 				59374F8415846BD400147EFF /* AppDelegate.m in Sources */,
-				59374F8715846BD400147EFF /* Horizontal_TableView_Example.xcdatamodeld in Sources */,
+				59374FA815846C0800147EFF /* MainViewController.m in Sources */,
+				59374FAB15846C2D00147EFF /* HorizontalTableView.m in Sources */,
+				59374FB015846EAE00147EFF /* HorizontalTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,14 +304,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		59374F7C15846BD400147EFF /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				59374F7D15846BD400147EFF /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
 		59374F9815846BD400147EFF /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -423,6 +437,7 @@
 				59374FA215846BD400147EFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		59374FA315846BD400147EFF /* Build configuration list for PBXNativeTarget "Horizontal TableView ExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -431,21 +446,9 @@
 				59374FA515846BD400147EFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		59374F8515846BD400147EFF /* Horizontal_TableView_Example.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				59374F8615846BD400147EFF /* Horizontal_TableView_Example.xcdatamodel */,
-			);
-			currentVersion = 59374F8615846BD400147EFF /* Horizontal_TableView_Example.xcdatamodel */;
-			path = Horizontal_TableView_Example.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 59374F6415846BD300147EFF /* Project object */;
 }

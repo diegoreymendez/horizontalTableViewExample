@@ -1,5 +1,5 @@
 //
-//  main.m
+//  MainViewController.h
 //  Horizontal TableView Example
 //
 //  Created by Diego Rey Mendez on 6/10/12.
@@ -25,11 +25,6 @@
 
 #import <UIKit/UIKit.h>
 
-#import "AppDelegate.h"
+@interface MainViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
 
-int main(int argc, char *argv[])
-{
-	@autoreleasepool {
-	    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-	}
-}
+@end

@@ -1,5 +1,5 @@
 //
-//  main.m
+//  HorizontalTableView.m
 //  Horizontal TableView Example
 //
 //  Created by Diego Rey Mendez on 6/10/12.
@@ -23,13 +23,30 @@
 //  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 
-#import <UIKit/UIKit.h>
+#import "HorizontalTableView.h"
 
-#import "AppDelegate.h"
+@implementation HorizontalTableView
 
-int main(int argc, char *argv[])
-{
-	@autoreleasepool {
-	    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+#pragma mark - NSCoding
+
+- (id)initWithCoder:(NSCoder *)aDecoder {
+	
+	assert([aDecoder isKindOfClass:[NSCoder class]]);
+	
+	self = [super initWithCoder:aDecoder];
+	
+	if (self) {
+		
+		const CGFloat k90DegreesCounterClockwiseAngle = (CGFloat) -(90 * M_PI / 180.0);
+		
+		CGRect frame = self.frame;
+		self.transform = CGAffineTransformRotate(CGAffineTransformIdentity, k90DegreesCounterClockwiseAngle);
+		self.frame = frame;	
+		
 	}
+	
+	assert(self);
+	return self;
 }
+
+@end
