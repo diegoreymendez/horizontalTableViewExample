@@ -328,8 +328,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/HorizontalTableViewExample/Code/Horizontal TableView Example-Prefix.pch";
-				INFOPLIST_FILE = "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/HorizontalTableViewExample/Code/Horizontal TableView Example-Info.plist";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Code/Horizontal TableView Example-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Code/Horizontal TableView Example-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -339,8 +339,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/HorizontalTableViewExample/Code/Horizontal TableView Example-Prefix.pch";
-				INFOPLIST_FILE = "/Users/diegoreymendez/Documents/Diego/Personal/devalloc/Sample Code/HorizontalTableViewExample/Code/Horizontal TableView Example-Info.plist";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Code/Horizontal TableView Example-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Code/Horizontal TableView Example-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
